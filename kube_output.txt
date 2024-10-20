@@ -1,3 +1,0 @@
-NAME                                           READY   STATUS    RESTARTS   AGE
-docker-assignment-deployment-64f8b98c4f-cvlk2   1/1     Running   0          3m18s
-docker-assignment-deployment-64f8b98c4f-dr6xx   1/1     Running   0          3m18s
